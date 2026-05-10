@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+temp/
+*.tmp
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Uploaded files
+uploads/
+
+# Virtual environments
+venv/
+env/
